@@ -11,8 +11,6 @@ Practical example of the reentracy vulnerability and how to protect against it
 
 ### 1. Clone/Download the Repository
 
-`$ voa e mala komanda samo highlight kaa inline element`
-
 ### 2. Install Dependencies:
 ```
 $ npm install
